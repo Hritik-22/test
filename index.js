@@ -1,4 +1,3 @@
-// hey  this is  function - 
 
 
 const greet = (name) => {
@@ -6,4 +5,4 @@ const greet = (name) => {
 }
 
 
-console.log(greet("Alice"));
+module.exports = greet;
